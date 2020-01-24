@@ -1,6 +1,6 @@
 .trim {
     overflow: hidden;
-    width: 500px;/* トリミングしたい枠の幅 */
-    height: 500px;/* トリミングしたい枠の高さ */
+    width: 500px;
+    height: 500px;
     position: relative;
 }
